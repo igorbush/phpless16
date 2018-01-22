@@ -1,0 +1,12 @@
+{
+	"name": "ibush.map/netology",
+	"autors": [
+		{
+			"name": "Igor Bushenev",
+			"email": "igorbushenev@mail.ru"
+		}
+	],
+    "require": {
+        "yandex/geo": "1.1.3"
+    }
+}
